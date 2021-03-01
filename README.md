@@ -3,7 +3,7 @@
 ## This analysis report is to find which green stocks hold the most value per year by using a refactored script.
 
 ### Main Analysis:
-        I had to build a VBA code to quickly and efficiently show which stocks have the best return per year. This code was able to not only make this data easier to read, but is designed for fast analysis in the future. By running our new script, We can now easily come to a few conclusions based on these images.
+   I had to build a VBA code to quickly and efficiently show which stocks have the best return per year. This code was able to not only make this data easier to read, but is designed for fast analysis in the future. By running our new script, We can now easily come to a few conclusions based on these images.
 
 ### All Stocks (2017)
 
@@ -15,11 +15,11 @@
 ![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.PNG)
 
 ## Results:
-    As we can see, 2017 was mostly a profitable year. Because of the code that was written, we were also able to quickly assess the following year. 2018 was mostly at a loss exept for two stocks, ENPH and RUN, both of which also made a profit the previous year. This script is light, efficient, and easy to use with big, accessible buttons ready to generate upcoming years data into an easy-to-read format.
+   As we can see, 2017 was mostly a profitable year. Because of the code that was written, we were also able to quickly assess the following year. 2018 was mostly at a loss exept for two stocks, ENPH and RUN, both of which also made a profit the previous year. This script is light, efficient, and easy to use with big, accessible buttons ready to generate upcoming years data into an easy-to-read format.
 
 
 ## Summary regarding the VBA script: 
-     Building a specific script like this and refactoring has its pro's and con's:
+   Building a specific script like this and refactoring has its pro's and con's:
    
    ### PRO: 
     - The script runs faster and lighter when refactored. 
