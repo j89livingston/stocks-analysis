@@ -24,7 +24,7 @@
    ### PRO: 
     - The script runs faster and lighter when refactored. 
     
-    -It is a lot easier to read and fix when shortened.
+    - It is a lot easier to read and fix when shortened.
 
    
    ### CON: 
